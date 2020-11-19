@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(5, 215, 252);
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+/*.boss{
+    text-align: center;
+    color: rgb(170, 95, 10);
+}
+*/
+.picture{text-align: center;}
+.me{
+    text-align: center;
+}
+.finish{
+    text-align: center;
+    font-size: 25px;
+}
